@@ -1,0 +1,284 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P001",
+        "Company_Name": "岦陞股份有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0589129,
+          25.03579201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P002",
+        "Company_Name": "觀音生質能中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.054832,
+          25.034757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P003",
+        "Company_Name": "弘馳股份有限公司 桃園環科廠"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0564611,
+          25.03400842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P004",
+        "Company_Name": "樺奕塑膠工業有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.056145,
+          25.03326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P005",
+        "Company_Name": "堡喬科技股份有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0573342,
+          25.03374722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P006",
+        "Company_Name": "冠柏環保科技有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0570669,
+          25.03344227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P007",
+        "Company_Name": "Tech-Zone台鎔科技材料股份有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0581137,
+          25.03440489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P008",
+        "Company_Name": "萬嘉環保工業股份有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0573426,
+          25.03452627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P009",
+        "Company_Name": "永成環科股份有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0584829,
+          25.03491434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P010",
+        "Company_Name": "大園汽電共生股份有限公司再生資源廠"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0599206,
+          25.03562226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P011",
+        "Company_Name": "尚達化工科技股份有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.060489,
+          25.03589164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P012",
+        "Company_Name": "秀霖環境科技"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0611273,
+          25.03701934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P013",
+        "Company_Name": "佳龍科技工程股份有限公司-環科廠"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0614196,
+          25.03795173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P014",
+        "Company_Name": "臺灣永光化學公司第四廠"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0651331,
+          25.03831781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P015",
+        "Company_Name": "沛斯可有限公司 | ANTRC INDUSTRIAL CORP."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0681858,
+          25.03963601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P016",
+        "Company_Name": "永吉化工股份有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0699067,
+          25.04013764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P017",
+        "Company_Name": "台灣電力公司 大潭發電廠"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0467306,
+          25.02584537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P018",
+        "Company_Name": "遠東紡織股份有限公司觀音紡織工廠"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0873999,
+          25.03373128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P019",
+        "Company_Name": "協記化學工業有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42334345357,
+          24.9563795032405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chimney_ID": "P020",
+        "Company_Name": "新麗化工有限公司"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.412431081365,
+          24.9448843414598
+        ]
+      }
+    }
+  ]
+}
